@@ -53,5 +53,16 @@ Change the value of the investment costs or any other costs according to your ne
 
 4. Add the heating demand profile
 ---------------------------------
+To add a hourly profile to the HeatingDemand asset, right click on the asset and select `Set port profile` from the menu. The following sidebar appears, click the `Add profile` button.
 
-To be added
+  .. image:: images/add_profile_button.png
+    :alt: Add profile button
+
+Select `DataTableProfile` at the top, and find a profile from the list
+
+  .. image:: images/select_profile.png
+    :alt: Select a profile from the list
+
+User defined profiles can be uploaded, see https://esdl-mapeditor-documentation.readthedocs.io/en/latest/features/profile_manager.html
+
+Profiles can for example be generated using the Heating Profile Generator, see: https://www.warmteprofielengenerator.nl/
