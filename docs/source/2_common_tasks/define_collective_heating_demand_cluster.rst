@@ -14,10 +14,11 @@ From the AssetDrawToolbar at the bottom select the HeatingDemand asset
 
 This asset can then be added as a point (representing a single location) or as a polygon (indicating the area)
 
+To add the asset with a point shape geometry, just click anywhere on the map.
+
   .. image:: images/heating_demand_with_point_geometry.png
     :alt: Heating demand with a point geometry
 
-To add the asset with a point shape geometry, just click anywhere on the map.
 To add the asset with a polygon shape geometry, change the drawing behaviour to polygons
 
   .. image:: images/change_to_polygon.png
